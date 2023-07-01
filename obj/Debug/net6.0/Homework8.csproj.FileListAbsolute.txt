@@ -1,0 +1,15 @@
+C:\Users\slizhkot\Desktop\Learn projects\Homework April\Seminars\Homeworks\Homework8\bin\Debug\net6.0\Homework8.exe
+C:\Users\slizhkot\Desktop\Learn projects\Homework April\Seminars\Homeworks\Homework8\bin\Debug\net6.0\Homework8.deps.json
+C:\Users\slizhkot\Desktop\Learn projects\Homework April\Seminars\Homeworks\Homework8\bin\Debug\net6.0\Homework8.runtimeconfig.json
+C:\Users\slizhkot\Desktop\Learn projects\Homework April\Seminars\Homeworks\Homework8\bin\Debug\net6.0\Homework8.dll
+C:\Users\slizhkot\Desktop\Learn projects\Homework April\Seminars\Homeworks\Homework8\bin\Debug\net6.0\Homework8.pdb
+C:\Users\slizhkot\Desktop\Learn projects\Homework April\Seminars\Homeworks\Homework8\obj\Debug\net6.0\Homework8.csproj.AssemblyReference.cache
+C:\Users\slizhkot\Desktop\Learn projects\Homework April\Seminars\Homeworks\Homework8\obj\Debug\net6.0\Homework8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\slizhkot\Desktop\Learn projects\Homework April\Seminars\Homeworks\Homework8\obj\Debug\net6.0\Homework8.AssemblyInfoInputs.cache
+C:\Users\slizhkot\Desktop\Learn projects\Homework April\Seminars\Homeworks\Homework8\obj\Debug\net6.0\Homework8.AssemblyInfo.cs
+C:\Users\slizhkot\Desktop\Learn projects\Homework April\Seminars\Homeworks\Homework8\obj\Debug\net6.0\Homework8.csproj.CoreCompileInputs.cache
+C:\Users\slizhkot\Desktop\Learn projects\Homework April\Seminars\Homeworks\Homework8\obj\Debug\net6.0\Homework8.dll
+C:\Users\slizhkot\Desktop\Learn projects\Homework April\Seminars\Homeworks\Homework8\obj\Debug\net6.0\refint\Homework8.dll
+C:\Users\slizhkot\Desktop\Learn projects\Homework April\Seminars\Homeworks\Homework8\obj\Debug\net6.0\Homework8.pdb
+C:\Users\slizhkot\Desktop\Learn projects\Homework April\Seminars\Homeworks\Homework8\obj\Debug\net6.0\Homework8.genruntimeconfig.cache
+C:\Users\slizhkot\Desktop\Learn projects\Homework April\Seminars\Homeworks\Homework8\obj\Debug\net6.0\ref\Homework8.dll
